@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Tronton" size="1410.000000 2250.000000" />
+    <ImageTarget name="Truck" size="1410.000000 2250.000000" />
+    <ImageTarget name="SUV" size="1410.000000 2250.000000" />
+    <ImageTarget name="Sport" size="1410.000000 2250.000000" />
+    <ImageTarget name="MuscleCar" size="1410.000000 2250.000000" />
+    <ImageTarget name="Sedan" size="1410.000000 2250.000000" />
+    <ImageTarget name="Mpv" size="1410.000000 2250.000000" />
+    <ImageTarget name="Crossover" size="1410.000000 2250.000000" />
+    <ImageTarget name="Coupe" size="1410.000000 2250.000000" />
+    <ImageTarget name="Hypercar" size="1410.000000 2250.000000" />
+  </Tracking>
+</QCARConfig>
